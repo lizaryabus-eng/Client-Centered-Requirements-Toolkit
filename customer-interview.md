@@ -1,3 +1,0 @@
-# Customer Interview
-
-Пример интервью...
